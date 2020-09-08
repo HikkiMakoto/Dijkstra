@@ -2,15 +2,15 @@
 
 Input
 
-s [the number of tests <= 10]
-n [the number of cities <= 10000]
-NAME [city name]
-p [the number of neighbors of city NAME]
-nr cost [nr - index of a city connected to NAME (the index of the first city is 1)]
-           [cost - the transportation cost]
-r [the number of paths to find <= 100]
-NAME1 NAME2 [NAME1 - source, NAME2 - destination]
-[empty line separating the tests]
+s [the number of tests <= 10]<br>
+n [the number of cities <= 10000]<br>
+NAME [city name]<br>
+p [the number of neighbors of city NAME]<br>
+nr cost [nr - index of a city connected to NAME (the index of the first city is 1)]<br>
+           [cost - the transportation cost]<br>
+r [the number of paths to find <= 100]<br>
+NAME1 NAME2 [NAME1 - source, NAME2 - destination]<br>
+[empty line separating the tests]<br>
 
 Example<br>
 
